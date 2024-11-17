@@ -16,7 +16,6 @@
 - **Market Mix Modeling**: Analyzing the effectiveness of marketing strategies.
 - **Digital Marketing**: Exploring innovative approaches to reach and engage audiences.
 
-
 ## 💼 My skills include:
 - **Data Analysis**: Transforming raw data into actionable insights.
 - **Web Scraping**: Extracting data from various sources using Python libraries like BeautifulSoup and Scrapy.
